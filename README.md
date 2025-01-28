@@ -7,7 +7,7 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Developing code using `Python` or `Bash` or `Matlab`
+- Developing code using `Python` or `Bash` or `Matlab` or `Nextflow`
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/caleb-jones-shibu/")**.
 - Doing research and developing AI models and scientific tools for **[AllenNeuralDynamics](https://github.com/AllenNeuralDynamics)** 
 
