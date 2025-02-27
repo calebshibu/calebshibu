@@ -15,7 +15,7 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
   - **Language/Platform:** `Python` • `JavaScript` • `Bash` • `MATLAB` • `C` • `C++` • `C#`  
-  - **Framework:** `Django` • `TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn`• `langchain`• `streamlit`• `PyQT5`
+  - **Framework:** `Django` • `TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn`• `langchain` • `streamlit` • `PyQT5` • `OpenAI Gym` • `Stable Baselines3` • `Pygame` • `MLflow` • `Nextflow`
   - **Databases:** `MySQL` • `PostgreSQL`
   - **Protocol:** `REST` • `Web Socket`
 
@@ -24,7 +24,7 @@ Hi there 👋!
   - **Utils:** `CSS`
 
 - 🎡 **Ecosystem:**
-  - **Containerization:** `Docker`
+  - **Containerization:** `Docker` • `Kubernetes`
   - **Version Control:** `Git` • `GitHub`
   - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Confluence` 
 
